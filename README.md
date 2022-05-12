@@ -13,7 +13,8 @@ Food Delivery Platform
 
 •Built in library functions to print messages and take inputs 
 •User-defined functions to call a particular segment from anywhere inside the code.
-•Conditional statements to execute necessary commands ✔Structures to create clusters of variables.
+•Conditional statements to execute necessary commands 
+•Structures to create clusters of variables.
 •Storing and modifying data in binary and text formats using File Handling
 
 
